@@ -1,0 +1,5 @@
+<svg width="148" height="36" xmlns="http://www.w3.org/2000/svg">
+  <circle id="svg_1" fill="#ffffff" r="10" cy="16" cx="14"/>
+  <text  x="31" y="22" font-family="Arial" font-size="18" fill="white" >Sign up now</text>
+  <path transform="rotate(-3 14.618873596191344,16.631313323974595) " d="m7.955126,15.988184l1.432068,-1.409259l3.923127,3.858779l6.539726,-6.431299l1.432574,1.408263l-7.9723,7.841554" stroke-width="0" fill="rgba(80, 148, 242, 1)"/>
+</svg>

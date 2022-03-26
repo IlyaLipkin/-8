@@ -1,0 +1,5 @@
+<svg width="500" height="76" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="139" cy="39" r="19" fill="rgba(80,148,242,1)" />
+    <text x="128" y="67" class="first_circle" fill="#ffffff" font-size="50">&#8220;</text>
+    <text x="168" y="52" class="first_circle" fill="#000000" font-size="33" font-family='Arial'>Prechu</text>
+</svg>

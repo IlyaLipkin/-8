@@ -1,0 +1,143 @@
+@font-face {
+    font-family: 'Myri';
+    src: url(..//fonts/MYRIADPRO-REGULAR.eot);
+    src: url(..//fonts/MYRIADPRO-REGULAR.OTF);
+    src: url(..//fonts/MYRIADPRO-REGULAR.ttf);
+    src: url(..//fonts/MYRIADPRO-REGULAR.woff);
+    src: url(..//fonts/MYRIADPRO-REGULAR.woff2);
+}
+
+.d-flex {
+    display: flex;
+    flex-direction: row; 
+}
+
+.d-flex-column {
+    display: flex;
+    flex-direction: column;
+}
+.first-conteiner {
+    width: 1066px;
+    height: 76px;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+.logo {
+    width: 550px;
+    height: 76px;
+}
+.site-name {
+    width: 110px;
+    height: 40px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    font-size: 35px;
+}
+.nav {
+    list-style-type: none;
+    width: 770px;
+    height: 76px;
+    margin-left: 123px;
+    margin-top: 32px;
+    font-family: 'Myri';
+    word-spacing: 18px;
+    letter-spacing: 1px;
+}
+li {
+    display: inline;
+    text-decoration: none;
+}
+
+.li3 {
+    margin-left: 3px;
+}
+.li4 {
+    margin-left: 2px;
+}
+.second-conteiner {
+    width: 1066px;
+    height: 418px;
+    margin-left: -8px;
+    background: url(/img/back.jpeg);
+}
+
+.iphone-img {
+    height: 375px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.iphone-text::first-line {
+    font-size: 35px;
+    word-spacing: -2px;
+    letter-spacing: 1px;
+}
+
+.iphone-text {
+    margin-top: 129px;
+    margin-left: 85px;
+    font-family: 'Myri';
+    color: white;
+    font-size: 23px;
+    line-height: 39px;
+}
+
+.third-conteiner {
+    width: 1066px;
+    height: 330px;
+    margin-left: -8px;
+}
+
+.button {
+    width: 147px;
+    height: 36px;
+    background-color: rgba(80,148,242,1);
+    margin-top: 23px;
+    margin-left: 98px;
+    border: none;
+}
+
+.fourth-conteiner {
+    width: 1066px;
+    height: 376px;
+}
+
+.shop-cart {
+    width: 470px;
+    height: 376px;
+    margin-left: 7px;
+}
+
+.bullet-text {
+    width: 320px;
+    height: 37px;
+    font-family: 'Myri';
+    font-size: 21px;
+    margin-top: 79px;
+    margin-left: 38px;
+    word-spacing: 3px;
+}
+
+.dummy-text {
+    width: 470px;
+    height: 252px;
+}
+
+.cart-text {
+    font-family: 'Myri';
+    font-size: 13px;
+    line-height: 31px;
+    width: 430px;
+    padding-left: 38px;
+    word-spacing: 0.1px;
+}
+
+.footer {
+    width: 672px;
+    height: 35px;
+    font-family: 'Myri';
+    padding-top: 29px;
+    padding-left: 388px;
+    font-size: 13px;
+}

@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Myri';
-    src: url(..//fonts/MYRIADPRO-REGULAR.eot);
-    src: url(..//fonts/MYRIADPRO-REGULAR.OTF);
-    src: url(..//fonts/MYRIADPRO-REGULAR.ttf);
-    src: url(..//fonts/MYRIADPRO-REGULAR.woff);
-    src: url(..//fonts/MYRIADPRO-REGULAR.woff2);
+    src: url(../fonts/MYRIADPRO-REGULAR.eot);
+    src: url(../fonts/MYRIADPRO-REGULAR.OTF);
+    src: url(../fonts/MYRIADPRO-REGULAR.ttf);
+    src: url(../fonts/MYRIADPRO-REGULAR.woff);
+    src: url(../fonts/MYRIADPRO-REGULAR.woff2);
 }
 
 .d-flex {
@@ -59,7 +59,7 @@ li {
     width: 1066px;
     height: 418px;
     margin-left: -8px;
-    background: url(/img/back.jpeg);
+    background: url(../img/back.jpeg);
 }
 
 .iphone-img {
